@@ -1,6 +1,26 @@
 # 💫 About Me:
+
 🔭 I'm currently working on<br><br>StudyCircle — a full-stack MERN educational platform with AI-powered quiz generation, video study rooms, shared notes, and course management<br><br>🤝 I'm looking to collaborate on<br><br>Full-stack web applications, AI-integrated tools, and educational technology projects<br><br>🤝 I'm looking for help with<br><br>WebRTC optimization and advanced AI prompt engineering<br><br>🌱 I'm currently learning<br><br>JavaScript/Node.js, React, REST API design, and AI agent development with Google Gemini<br><br>💬 Ask me about<br><br>Python, MERN stack development, integrating AI APIs into web apps, and building real-time features with Socket.io<br><br>⚡ Fun fact<br><br>I built an AI quiz generator in JavaScript despite my background being Python—and learned a new language in the process!
 
+#💬 Ask me about
+
+Python, machine learning (scikit-learn, XGBoost, TensorFlow),
+data preprocessing & feature engineering, SQL/MySQL, integrating AI APIs into web apps,
+and building real-time features with Socket.io
+
+#🌱 I'm currently learning
+
+JavaScript/Node.js, React, REST API design, AI agent development with Google Gemini,
+and advanced ML techniques including ensemble methods and hyperparameter tuning
+
+#🤝 I'm looking to collaborate on
+
+AI-integrated tools, educational technology projects,
+and data analysis or machine learning projects
+
+⚡ Fun fact
+
+I built an AI quiz generator in JavaScript despite my background being Python — and learned a new language in the process! I also compared 7 ML models on housing data and found that XGBoost beat even deep neural networks.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Khan Farhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__2fks6__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Khan Farhan Mahdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhanmahadi0902@gmail.com) 
